@@ -1,6 +1,6 @@
-Listings
+### Listing
 
-1. [hello world](./hello.c)
+#### [1. hello](./hello.c)
 
 ```bash
 cc hello.c
