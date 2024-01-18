@@ -16,3 +16,4 @@ cc -o hello hello.c
 
 - [5. bool](./static.c)
 
+- [6. array & pointer](./arrp.c)
