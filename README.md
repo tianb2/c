@@ -19,3 +19,7 @@ cc -o hello hello.c
 - [6. array & pointer](./arrp.c)
 
 - [7. struct type](./struct.c)
+
+- [8. union](./union.c)
+
+- [9. tags](./tags.c)
