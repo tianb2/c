@@ -23,3 +23,5 @@ cc -o hello hello.c
 - [8. union](./union.c)
 
 - [9. tags](./tags.c)
+
+- [10. qualifiers](./qualifiers.c)
